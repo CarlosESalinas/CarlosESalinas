@@ -9,7 +9,8 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am AI Developer Jr from <b>Mexico</b> 」
+    「 I am Python Developer Jr from <b>Mexico</b> 」
+    <br>    with experience in ML & Deep Learning
     <br>
     <br>
   </samp>
