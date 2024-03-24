@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><!--<a target="_blank" href="https://alsiam.com">-->Carlos E Salinas</a></b>
+                <b>Carlos E Salinas</a></b>
         </samp>
 </h3>
 
@@ -28,7 +28,9 @@
 
 <!-- About Section -->
  # About me
- 
+
+
+
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
