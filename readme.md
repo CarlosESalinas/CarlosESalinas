@@ -32,7 +32,7 @@
 
 
 <p>
- <img align="right" width="280" src="/assets/giphy.gif" alt="Coding gif"/>
+ <img align="right" width="263" src="/assets/giphy.gif" alt="Coding gif"/>
   
  ✌️ &emsp; I'm a passionate developer with experience in Python and Artificial Intelligence. Experience to execute machine learning and deep learning projects, from 0 to 1<br/><br/>
  🤖 &emsp; My focus is on creating innovative solutions that harness the power of AI to address real-world challenges.<br/><br/>
